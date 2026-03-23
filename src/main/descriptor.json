@@ -1,0 +1,19 @@
+{
+  "dataProductDescriptor" : "1.0.0",
+  "info" : {
+    "fullyQualifiedName" : "urn:dpds:crifPlayground:dataproducts:testGit:1",
+    "domain" : "lorenzobruscoRetail",
+    "name" : "testGit",
+    "displayName" : "test git",
+    "description" : null,
+    "version" : "1.0.0",
+    "owner" : {
+      "id" : "l.brusco@crif.com",
+      "name" : "Lorenzo Brusco"
+    }
+  },
+  "interfaceComponents" : {
+    "inputPorts" : [ ],
+    "outputPorts" : [ ]
+  }
+}
